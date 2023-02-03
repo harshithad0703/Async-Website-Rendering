@@ -1,0 +1,22 @@
+{
+    "contactDetails":{
+        "socialMediaIcons":[
+            {
+                "icon":"fa fa-github",
+                "href":"https://github.com"
+            },
+            {
+                "icon":"fa fa-linkedin",
+                "href":"https://www.linkedin.com"
+            },
+            {
+                "icon":"fa fa-facebook",
+                "href":"https://www.facebook.com"
+            },
+            {
+                "icon":"fa fa-twitter",
+                "href":"https://twitter.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "profileImage": "imgs/profile.png",
+    "content": [
+        {
+            "heading": "Where am I from?",
+            "content": "I was born in Hassan, brought up in Bengaluru and I studied there till 12th and I'm currently studying in Mysuru."
+        },
+        {
+            "heading": "My hobbies:",
+            "content": "I read digital comics and listen k-pop. Apart from these I'm good at writing Calligraphy."
+        },
+        {
+            "heading": "Sports:",
+            "content": "Throwball, Kabaddi."
+        }
+    ]
+}
